@@ -14,6 +14,12 @@ The aim with EllipsisUI is to resurrect the Ellipsis project from Team Blackbolt
 The original goal for Ellipsis was to make the navigation and use of Kodi as user friendly as possible, so easy to use infact that a young child can use it just as easily as her grandmother can.
 This GUI sounds addon was created using sound assets ripped from Ellipsis by Team Blackbolt.
 
+-------------
+Installation:
+=============
+
+Install through the Kodi UI by adding the repository to your file explorer and installing from add-on browser.
+
 --------
 Credits:
 ========
