@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<addon id="resource.uisounds.ellipsisuiretro" version="1.0.0" name="EllipsisUI Sounds Retro Edition" provider-name="TeamUI and RevontuletCXVII">
+  <requires>
+    <import addon="kodi.resource" version="1.0.0"/>
+  </requires>
+  <extension point="kodi.resource.uisounds"/>
+  <extension point="kodi.addon.metadata">
+    <summary lang="en">EllipsisUI Retro GUI Sounds Addon</summary>
+    <description lang="en">Experience the original GUI sound effects of EllipsisUI</description>
+    <platform>all</platform>
+	<assets>
+		<icon>icon.png</icon>
+		<fanart>fanart.jpg</fanart>
+	</assets>
+  </extension>
+</addon>
