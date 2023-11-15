@@ -24,13 +24,13 @@ Install through the Kodi UI by adding the repository to your file explorer and i
 Credits:
 ========
 
-EllipsisUI GUI Sounds Addon
+EllipsisUI Retro GUI Sounds Addon
 -----------------------
 by TeamUI
 
 Addon Maintainer
 -----------------------
-    - Ch3dd4rGoblin
+    - RevontuletCXVII
 
 Sound Effects
 -----------------------
